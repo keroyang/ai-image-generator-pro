@@ -429,8 +429,8 @@ export default function CustomPage() {
             {/* 手绘边框滤镜定义 */}
             <svg height="0" xmlns="http://www.w3.org/2000/svg">
                 <filter id="hand-drawn">
-                    <feTurbulence type="fractalNoise" baseFrequency="0.1" numOctaves="3" result="turbulence" />
-                    <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="4" />
+                    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" result="turbulence"/>
+                    <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="5" />
                 </filter>
             </svg>
         </div>

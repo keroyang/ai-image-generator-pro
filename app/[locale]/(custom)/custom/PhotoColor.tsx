@@ -106,8 +106,8 @@ const PhotoColor: React.FC = () => {
             <div
                 className={styles.handDrawnBorder}
                 style={{
-                    border: "3px solid #000",
-                    borderRadius: "5px",
+                    border: "7px solid #F0E542",
+                    borderRadius: "15px",
                     padding: "10px",
                     margin: "20px",
                     flex: "2",
@@ -171,8 +171,8 @@ const PhotoColor: React.FC = () => {
             <div
                 className={styles.handDrawnBorder}
                 style={{
-                    border: "3px solid #000",
-                    borderRadius: "5px",
+                    border: "7px solid #F0E542",
+                    borderRadius: "15px",
                     padding: "10px",
                     margin: "20px",
                     flex: "3",
@@ -322,8 +322,8 @@ const PhotoColor: React.FC = () => {
             <div
                 className={styles.handDrawnBorder}
                 style={{
-                    border: "3px solid #000",
-                    borderRadius: "5px",
+                    border: "7px solid #F0E542",
+                    borderRadius: "15px",
                     padding: "10px",
                     margin: "20px",
                     flex: "3",

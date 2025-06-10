@@ -44,7 +44,7 @@
 .headerCircle{
     font-family: 'dk_cool_crayonregular';
     filter: url(#hand-drawn);
-    border: 2px solid rgb(147 51 234);
+    border: 7px solid rgb(147 51 234);
     padding: 3px 8px;
     display: inline-block;
     /*border-radius: 18px;*/
